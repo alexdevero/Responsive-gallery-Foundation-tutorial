@@ -6,4 +6,4 @@ How To Build Responsive Gallery With Foundation and Modals tutorial on [Alex Dev
 
 ## Links:
 - Live demo on [CodePen](http://codepen.io/alexdevero/pen/KNNNvW)
-- Tutorial on [Alex Devero Blog](http://blog.alexdevero.com/)
+- Tutorial on [Alex Devero Blog](http://blog.alexdevero.com/build-responsive-gallery-foundation/)
