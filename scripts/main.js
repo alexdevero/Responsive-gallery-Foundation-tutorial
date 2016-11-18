@@ -25,7 +25,7 @@
     let elementOpacity = 0.1;
 
     // Create timer for fadeIn function
-    let timer = setInterval(function() {
+    let timer = setInterval(() => {
       if (elementOpacity >= 1) {
         // Reset interval
         clearInterval(timer);
@@ -48,7 +48,7 @@
     let elementOpacity = 1;
 
     // Create timer for fadeOut function
-    let timer = setInterval(function() {
+    let timer = setInterval(() => {
       if (elementOpacity <= 0.1) {
         // Reset interval
         clearInterval(timer);
