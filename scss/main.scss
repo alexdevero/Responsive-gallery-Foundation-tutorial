@@ -6,6 +6,15 @@
 // Variables
 $breakpoint-xlarge: 1200px;
 
+/* Base resets */
+html {
+  font-size: 16px;
+}
+
+body {
+  font-size: 100%;
+}
+
 /* Extending Foundation grid */
 @media screen and (min-width: $breakpoint-xlarge) {
   .xlarge-1 {
@@ -56,16 +65,6 @@ $breakpoint-xlarge: 1200px;
     flex: 0 0 100%;
     max-width: 100%
   }
-}
-
-
-/* Base resets */
-html {
-  font-size: 16px;
-}
-
-body {
-  font-size: 100%;
 }
 
 /* Override for Foundation row styles */
