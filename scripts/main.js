@@ -5,9 +5,6 @@
 (() => {
   'use strict';
 
-  // Initiate foundation reveal plugin (jQuery is required)
-  //$(document).foundation();
-
   // Create object literal with project variables
   const galleryVariables = {
     galleryAuthor: document.querySelector('.js-modal-author'),
