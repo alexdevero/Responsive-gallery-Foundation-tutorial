@@ -65,7 +65,7 @@
     }, 15);
   }
 
-  // Handle openning modal by clicking on images
+  // Open reveal dialog by clicking on images
   for (let x = 0, y = galleryVariables.galleryLinks.length; x < y; x++) {
     // Add event listener for image containers
     galleryVariables.galleryLinks[x].addEventListener('click', (e) => {
@@ -103,7 +103,7 @@
     });
   }
 
-  // Handle closing modal
+  // Close reveal dialog 
   galleryVariables.galleryButton.addEventListener('click', (e) => {
     e.preventDefault();
 
