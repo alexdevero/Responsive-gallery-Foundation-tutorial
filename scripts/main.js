@@ -19,7 +19,7 @@
     galleryPreviewAuthor: document.querySelector('.js-modal-author')
   }
 
-  // Fade in fuction
+  // Fade in function
   const fadeIn = (element) => {
     // Create variable with initial opacity
     let elementOpacity = 0.1;
