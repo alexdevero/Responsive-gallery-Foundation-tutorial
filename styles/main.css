@@ -1,3 +1,12 @@
+/* Base resets */
+html {
+  font-size: 16px;
+}
+
+body {
+  font-size: 100%;
+}
+
 /* Extending Foundation grid */
 @media screen and (min-width: 1200px) {
   .xlarge-1 {
@@ -95,14 +104,6 @@
             flex: 0 0 100%;
     max-width: 100%;
   }
-}
-/* Base resets */
-html {
-  font-size: 16px;
-}
-
-body {
-  font-size: 100%;
 }
 
 /* Override for Foundation row styles */
