@@ -1,5 +1,6 @@
 //
 // No external JavaScript libraries are used or required
+// Plugins used are autoprefixer and babel
 //
 (() => {
   'use strict';
