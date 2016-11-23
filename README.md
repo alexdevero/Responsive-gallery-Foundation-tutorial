@@ -1,4 +1,4 @@
-# Responsive-gallery-Foundation-tutorial
+# Responsive gallery Foundation tutorial
 How To Build Responsive Gallery With Foundation and Modals tutorial on [Alex Devero Blog](http://blog.alexdevero.com/).
 
 ## Assets:
